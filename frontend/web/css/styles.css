@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;300;400&display=swap');
+
+@media screen and (min-width: 0px) {
+}
+@media screen and (min-width: 400px) {
+    .card-img{
+        width: 235px;
+        overflow-y: hidden;
+    }
+    .card-img-top {
+        width: 100%;
+        height: 15vw;
+        object-fit: cover;
+    }
+}
+@media screen and (min-width: 600px) {
+}
+@media screen and (min-width: 800px) {
+    .bd-placeholder-img-lg {font-size: 3.5rem;
+    }
+    .card-img{
+        width: 235px;
+        overflow-y: hidden;
+    }
+    .card-img-top {
+        width: 100%;
+        height: 15vw;
+        object-fit: cover;
+    }
+}
+@media screen and (min-width: 1025px) {
+    .card-img{
+        width: 235px;
+        overflow-y: hidden;
+    }
+    .card-img-top {
+        width: 100%;
+        height: 15vw;
+        object-fit: cover;
+    }
+}
+
+body {
+  margin: 0px !important;
+}
+
+.index-category {
+    text-decoration:none;
+    font-weight:400;
+}
+index-category:hover {
+    text-decoration:none;
+    font-weight:400;
+    border-bottom: 1px solid;
+}
+.index-author {
+    text-decoration:none;
+    font-weight:400;
+}
+.index-author:hover {
+    text-decoration:none;
+    border-bottom: 1px solid;
+    font-weight:400;
+}
+.index-title {
+    text-decoration:none;
+    font-weight:400;
+}
+.index-title:hover {
+    text-decoration:none;
+    font-weight:400;
+    border-bottom: 1px solid;
+}
+.article{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    line-height: 1.7;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.attribute{
+    font-size: 0.8em;
+}
+
+.attribute a{
+    font-size: 0.8em;
+    text-decoration: none;
+    color: #013461;
+}
+
+.attribute a:hover{
+    font-size: 0.8em;
+    text-decoration: underline;
+    color: #001f3f;
+}
+
+.niche span{
+    font-size: 0.8em;
+    color: #000;
+}
+
+.niche a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.niche a:hover{
+    text-decoration: none;
+    color: #ddd;
+}
+
+.tag span{
+    font-size: 0.9em;
+    color: #000;
+}
+
+.tag a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.tag a:hover{
+    text-decoration: none;
+    color: #ddd;
+}
+
+.bar{
+    font-size: 22pt;
+    font-weight: 400;
+}
+
+.hr-custom{
+    width:70%;
+    margin:auto
+}

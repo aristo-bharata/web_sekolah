@@ -1,0 +1,20 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 23, 2022, 9:08:23 AM
+    Author     : ARISTO BHARATA
+*/
+
+.note-editing-area{
+    background-color: #fff;
+    color: #000;
+}
+.note-toolbar{
+    background-color: #e9ecef;
+}
+.card-header{
+    background-color: #495057;
+}
