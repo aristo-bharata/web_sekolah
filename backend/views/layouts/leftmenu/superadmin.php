@@ -225,7 +225,7 @@ use yii\helpers\Url;
                                 'class' => 'fas fa-cog nav-icon text-light',
                             ]).Html::tag('p','Setting',[
                                 'class' => 'text-light',
-                            ]), Url::to('/setting/index'),[
+                            ]), Url::to('/webidentity/index'),[
                                 'class' => 'nav-link']);
                 ?>
             </li>

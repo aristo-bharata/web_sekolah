@@ -53,7 +53,7 @@ $this->title= 'Website Setting' . $q;
                 <div class="card">
                     <div class="card-body">
                         <div class="row">
-                            <div class="col-4 col-lg col-md-4">
+                            <div class="col-4 col-lg-4 col-md-4">
                             <?php
                                 if($article['media'] != null)
                                 {
